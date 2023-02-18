@@ -1,4 +1,4 @@
-name: prayer_time
+name: prayer_time_apllication
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -38,6 +38,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   sqflite: ^2.2.4+1
   path_provider: ^2.0.12
+  path: ^1.8.2
   http: ^0.13.5
   intl: ^0.18.0
   flutter_timer_countdown: ^1.0.5

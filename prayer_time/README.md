@@ -1,4 +1,4 @@
-# prayer_time
+# prayer_time_apllication
 
 A new Flutter project.
 

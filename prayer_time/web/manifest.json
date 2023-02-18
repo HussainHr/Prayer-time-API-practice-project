@@ -1,6 +1,6 @@
 {
-    "name": "prayer_time",
-    "short_name": "prayer_time",
+    "name": "prayer_time_apllication",
+    "short_name": "prayer_time_apllication",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
